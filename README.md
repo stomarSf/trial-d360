@@ -1,3 +1,3 @@
-# new-project
+# trial-d360
 
-New project repository.
+Trial D360 project repository.
